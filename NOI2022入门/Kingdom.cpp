@@ -1,4 +1,5 @@
 #include<iostream>
+#include<bits/stdc++.h>
 #define MAXN 1050
 #define ture true
 using namespace std;
