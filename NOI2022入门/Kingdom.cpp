@@ -1,4 +1,5 @@
 #include<iostream>
+#include<cstdlib>
 #include<bits/stdc++.h>
 #define MAXN 1050
 #define ture true
@@ -9,6 +10,8 @@ struct pro{
 }p[MAXN]; 
 int out;
 int main(){
+	//freopen("kingdom.in","r",stdin);
+	//freopen("kingdom.out","w",stdout);	 
 	int n,m;
 	cin >> n >> m; 
 	for(int i = 0;i < n;i++) {
